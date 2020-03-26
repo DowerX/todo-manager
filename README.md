@@ -7,7 +7,7 @@
 `exit` or `q` or `close`    : exit program\
 `file x`                    : load file from `x` path\
 `dateformat x`              : sets the format for date input when adding a new job\
-`save x`                    : saves jobs to `x` path, if `x` is null then saves to the loaded file\
+`save x`                    : saves jobs to `x` path, if `x` is null then saves to the loaded file
 
 # Commandline args:
 `-f x`                      : set a file to be loaded\
