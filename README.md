@@ -1,14 +1,14 @@
-# todo-manager
-# Commands:
-'''add'''                   : add a new job
-'''remove x''' or '''done''': remove a job
-'''list'''                  : list all jobs
-'''detail x'''              : show details of a job
-'''exit''' or '''q''' or '''close''': exit program
-'''file x'''                : load file from '''x''' path
-'''dateformat x'''          : sets the format for date input when adding a new job
-'''save x'''                : saves jobs to '''x''' path, if '''x''' is null then saves to the loaded file
+# todo-manager\n
+# Commands:\n
+add                   : add a new job\n
+remove x or done      : remove a job\n
+list                  : list all jobs\n
+detail x              : show details of a job\n
+exit or q or close    : exit program\n
+file x                : load file from x path\n
+dateformat x          : sets the format for date input when adding a new job\n
+save x                : saves jobs to x path, if x is null then saves to the loaded file\n
 
-# Commandline args:
-'''-f x'''                  : set a file to be loaded
-'''-na'''                   : No-Autosave, disables autosaving
+# Commandline args:\n
+-f x                  : set a file to be loaded\n
+-na                   : No-Autosave, disables autosaving\n
